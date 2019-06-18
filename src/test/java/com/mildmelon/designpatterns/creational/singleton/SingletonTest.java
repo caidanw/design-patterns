@@ -5,12 +5,10 @@ import org.junit.Assert;
 import org.junit.Test;
 
 @Slf4j
-public class SingletonTest
-{
+public class SingletonTest {
 
     @Test
-    public void isSameInstance()
-    {
+    public void isSameInstance() {
         Singleton instance1 = Singleton.getInstance();
         log.info("Created singleton: instance1");
 
