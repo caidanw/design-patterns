@@ -1,4 +1,4 @@
-package com.mildmelon.designpatterns.creational.factory;
+package com.mildmelon.design_patterns.creational.factory;
 
 public abstract class Page {
 }

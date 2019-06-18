@@ -1,4 +1,4 @@
-package com.mildmelon.designpatterns.creational.builder;
+package com.mildmelon.design_patterns.creational.builder;
 
 import lombok.Getter;
 

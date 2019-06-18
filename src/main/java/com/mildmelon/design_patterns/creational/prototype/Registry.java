@@ -1,4 +1,4 @@
-package com.mildmelon.designpatterns.creational.prototype;
+package com.mildmelon.design_patterns.creational.prototype;
 
 import java.util.HashMap;
 import java.util.Map;

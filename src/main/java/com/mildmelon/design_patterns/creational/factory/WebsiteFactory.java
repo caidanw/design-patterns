@@ -1,7 +1,7 @@
-package com.mildmelon.designpatterns.creational.factory;
+package com.mildmelon.design_patterns.creational.factory;
 
-import com.mildmelon.designpatterns.creational.factory.websites.Blog;
-import com.mildmelon.designpatterns.creational.factory.websites.Shop;
+import com.mildmelon.design_patterns.creational.factory.websites.Blog;
+import com.mildmelon.design_patterns.creational.factory.websites.Shop;
 
 public class WebsiteFactory {
 

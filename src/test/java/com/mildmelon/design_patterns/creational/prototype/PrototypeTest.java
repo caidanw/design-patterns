@@ -1,4 +1,4 @@
-package com.mildmelon.designpatterns.creational.prototype;
+package com.mildmelon.design_patterns.creational.prototype;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Before;

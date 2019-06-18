@@ -1,4 +1,4 @@
-package com.mildmelon.designpatterns.creational.factory;
+package com.mildmelon.design_patterns.creational.factory;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Assert;

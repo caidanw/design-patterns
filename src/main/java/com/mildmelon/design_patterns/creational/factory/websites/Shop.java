@@ -1,9 +1,9 @@
-package com.mildmelon.designpatterns.creational.factory.websites;
+package com.mildmelon.design_patterns.creational.factory.websites;
 
-import com.mildmelon.designpatterns.creational.factory.Website;
-import com.mildmelon.designpatterns.creational.factory.pages.CartPage;
-import com.mildmelon.designpatterns.creational.factory.pages.ItemPage;
-import com.mildmelon.designpatterns.creational.factory.pages.SearchPage;
+import com.mildmelon.design_patterns.creational.factory.pages.CartPage;
+import com.mildmelon.design_patterns.creational.factory.pages.SearchPage;
+import com.mildmelon.design_patterns.creational.factory.Website;
+import com.mildmelon.design_patterns.creational.factory.pages.ItemPage;
 
 public class Shop extends Website {
 

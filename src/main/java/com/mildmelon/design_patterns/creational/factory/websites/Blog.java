@@ -1,10 +1,10 @@
-package com.mildmelon.designpatterns.creational.factory.websites;
+package com.mildmelon.design_patterns.creational.factory.websites;
 
-import com.mildmelon.designpatterns.creational.factory.Website;
-import com.mildmelon.designpatterns.creational.factory.pages.AboutPage;
-import com.mildmelon.designpatterns.creational.factory.pages.CommentPage;
-import com.mildmelon.designpatterns.creational.factory.pages.ContactPage;
-import com.mildmelon.designpatterns.creational.factory.pages.PostPage;
+import com.mildmelon.design_patterns.creational.factory.pages.AboutPage;
+import com.mildmelon.design_patterns.creational.factory.pages.ContactPage;
+import com.mildmelon.design_patterns.creational.factory.Website;
+import com.mildmelon.design_patterns.creational.factory.pages.CommentPage;
+import com.mildmelon.design_patterns.creational.factory.pages.PostPage;
 
 public class Blog extends Website {
 

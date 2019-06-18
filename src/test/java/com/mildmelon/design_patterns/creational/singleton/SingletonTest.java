@@ -1,4 +1,4 @@
-package com.mildmelon.designpatterns.creational.singleton;
+package com.mildmelon.design_patterns.creational.singleton;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Assert;

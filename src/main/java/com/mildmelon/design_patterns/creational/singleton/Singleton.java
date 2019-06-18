@@ -1,4 +1,4 @@
-package com.mildmelon.designpatterns.creational.singleton;
+package com.mildmelon.design_patterns.creational.singleton;
 
 public class Singleton {
 
