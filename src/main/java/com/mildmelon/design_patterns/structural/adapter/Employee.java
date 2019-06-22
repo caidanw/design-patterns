@@ -7,4 +7,13 @@ public interface Employee {
     String getLastName();
     String getEmail();
 
+    default String info() {
+        return String.format(
+                "ID: %s, Name: %s %s, Email: %s",
+                this.getId(),
+                this.getFirstName(), this.getLastName(),
+                this.getEmail()
+        );
+    }
+
 }
